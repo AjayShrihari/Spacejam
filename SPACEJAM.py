@@ -143,8 +143,8 @@ class game:
                                 
                         text1= Texta.render('score: %d' % score, 0, (250,250,0))
                         text2= Texta.render('Highscore: %d' % highscore, 0, (250,250,0))
-                        text3= Texta.render('code by Poornesh ', 0, (250,250,0))
-                        text4= Texta.render('and Ajay P0p3', 0, (250,250,0))
+                        text3= Texta.render('code by Ajay ', 0, (250,250,0))
+                        text4= Texta.render('and Poornesh', 0, (250,250,0))
                         text5= Textb.render('Space Jam ', 0, (255,0,0))
                         text6= Texta.render('start', 0, (255,0,0))
                         text7= Texta.render('quit ', 0, (255,0,0))
